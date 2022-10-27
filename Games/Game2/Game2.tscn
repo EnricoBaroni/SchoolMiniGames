@@ -1,0 +1,10 @@
+[gd_scene format=2]
+
+[node name="Game2" type="Node2D"]
+
+[node name="Label" type="Label" parent="."]
+margin_left = 129.0
+margin_top = 72.0
+margin_right = 169.0
+margin_bottom = 86.0
+text = "GAME 2"
